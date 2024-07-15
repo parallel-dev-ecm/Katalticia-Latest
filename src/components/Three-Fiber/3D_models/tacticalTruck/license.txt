@@ -1,0 +1,8 @@
+Model Information:
+* title:	Heavy Expanded Mobility Tactical Truck
+* source:	https://sketchfab.com/3d-models/heavy-expanded-mobility-tactical-truck-c6a8c6222be54e0ab881c92666b6e945
+* author:	Mateusz Woliński (https://sketchfab.com/jeandiz)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

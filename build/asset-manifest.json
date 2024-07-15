@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.08b6aab3.js",
+    "static/js/56.48f070ea.chunk.js": "/static/js/56.48f070ea.chunk.js",
+    "static/js/456.13c12d3d.chunk.js": "/static/js/456.13c12d3d.chunk.js",
+    "static/js/648.e740f357.chunk.js": "/static/js/648.e740f357.chunk.js",
+    "static/media/truck2.png": "/static/media/truck2.527768005f37a2597c1a.png",
+    "static/media/image.png": "/static/media/image.5e2d0f5ab1f0461612f2.png",
+    "static/media/KataliticaLogo_Truck.png": "/static/media/KataliticaLogo_Truck.d862c43bc8bdaa058b3d.png",
+    "static/media/logoTruck.png": "/static/media/logoTruck.d862c43bc8bdaa058b3d.png",
+    "static/media/foto2.jpg": "/static/media/foto2.b2f173e5a673ed426971.jpg",
+    "static/media/truck1.jpg": "/static/media/truck1.7d95f131bbbc83075dbc.jpg",
+    "static/media/bruce-mars.jpg": "/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/logo_Cliente.jpeg": "/static/media/logo_Cliente.efdc517aafbadf6c5094.jpeg",
+    "static/media/logo-slack.svg": "/static/media/logo-slack.7c47c5aa474b5c4fb39fcf05ffb8e4e7.svg",
+    "static/media/logo-spotify.svg": "/static/media/logo-spotify.e83cf56c9d99a1fdf59e8deb58bbe470.svg",
+    "static/media/logo-atlassian.svg": "/static/media/logo-atlassian.f2b0e8570a4b4ce768854ff3dad1a6e1.svg",
+    "static/media/logo-asana.svg": "/static/media/logo-asana.d758f410d82760a61d1eabcb03409de6.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/js/main.08b6aab3.js"
+  ]
+}
